@@ -1,2 +1,2 @@
 # dkc
- my projects to deal with the current job routine
+ my projects to dealing with the current job routine
